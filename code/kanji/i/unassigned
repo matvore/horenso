@@ -1,13 +1,13 @@
-i1q	扒	yハチ	Pba1	Ppa1	Ppa2	b扌	hb八
+i1q	扒	yハ	Pba1	Ppa1	Ppa2	b扌	hb八
 i1w	扭	yジュウ	hyチュウ	Pniu3
 i1e	扳	yハン	Pban1	Ppan1
 i1r	抨	yホウ	hyヒョウ	hyヘイ	Ppeng1
 i1t	抿	yビン	hyミン	Pmin3
-i1y	拋	ktj抛	yホウ
+i1y	拋	ktj抛	yホウ	Ppao1
 i1u	拎	yレイ	hyリョウ	Pling1
-i1i	拚	yヘン	hyフン	Ppan4
+i1i	拚	yヘン	Ppan4
 i1o	拴	yセン	Pshuan1
-i1p	拽	yエイ	hyエツ	Pzhuai4
+i1p	拽	yエイ	hyエツ	Pzhuai4	sjt捙
 i1a	挖	yアツ	Pwa1
 i1s	挪	yナ	hyダ	Pnuo2
 i1d	捂	yゴ	Pwu3	Pwu2
@@ -16,7 +16,7 @@ i1g	捎	yショウ	hyソウ	Pshao1	Pshao4
 i1h	捱	yガイ	hyゲ	Pai2	Pai1
 i1j	掄	yロン	hyリン	Plun2	Plun1	ktj抡
 i1k	掙	yソウ	hyショウ	Pzheng1	Pzheng4	ktj挣
-i1l	揍
+i1l	揍	yソウ	Pzou4
 i1;	搞	yコウ	hyキョウ	Pgao3
 i1z	搪	yトウ	Ptang2
 i1x	搽	yタ	hyチャ	hyサ	Pcha2	Pca1
@@ -97,7 +97,6 @@ _0634B	捋
 _06354	捔
 _06356	捖
 _06358	捘
-_06359	捙
 _06365	捥
 _0636C	捬
 _0636D	捭
